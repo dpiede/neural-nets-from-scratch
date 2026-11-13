@@ -1,2 +1,5 @@
 .venv/
 __pycache__/n*.ipynb_checkpoints/
+
+### local settings and scripts
+.envrc
